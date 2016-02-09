@@ -9,4 +9,5 @@ public class ListCore
 {
     public static LayoutInflater inflater;
     public static LinkedList ll;
+    //made a change
 }
